@@ -1,4 +1,4 @@
-,ex_name,workerId,Reference,SampleA,SampleB,choice_answerTimbre,choice_answerRhythm,choice_answerMelody,choice_answerTotal,choice_time
+,ex_name,userId,Reference,SampleA,SampleB,choice_answerTimbre,choice_answerRhythm,choice_answerMelody,choice_answerTotal,choice_time
 0,ex202404,user1,set2/2/piano/X_1913-28.wav,set2/2/piano/C_1916-39.wav,set2/2/piano/Y_1913-8.wav,B+,B+,B+,B+,36481
 1,ex202404,user1,set2/0/residuals/X_2090-23.wav,set2/0/residuals/Y_2090-7.wav,set2/0/residuals/C_2095-48.wav,A+,A-,A-,A-,36029
 2,ex202404,user1,set2/1/bass/X_2086-27.wav,set2/1/bass/A_1954-46.wav,set2/1/bass/B_2037-38.wav,B-,B-,B-,B-,45704

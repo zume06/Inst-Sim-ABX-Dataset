@@ -42,6 +42,7 @@ This file contains the configuration of samples in each test set in JSON format.
 
 #### Format
 - This configuration has the following structure.
+'''''
 Test Set Number
 └── Sample Set Number
     └── Test Type ("test 1" or "test 2")
@@ -53,6 +54,7 @@ Test Set Number
                 ├── sr
                 ├── index_s
                 └── index_e
+'''''
 
 - Each category includes Sample X, Sample A, and Sample B, or Sample X, Sample Y, and Sample C, with the following information provided for each sample:
   - `ID`: ID of the slakh 2100 dataset

@@ -1,5 +1,5 @@
 # Instrumental Similarity ABX Dataset
-This is the similarity annotation for the instrumental sounds and musical pieces in the test set of the salkh2100 dataset.
+This is the similarity annotation for the instrumental sounds and the musical pieces in the test set of the salkh2100 dataset.
 This dataset contains response data collected from experiments evaluating the similarity of instrument sounds, along with configuration information for the test sets used in the experiments. Below is a description of the files and directories included.
 
 ## Directory Structure
@@ -28,6 +28,9 @@ This file contains response data from subjects (`subject_id`) who participated i
 - `answer_melody`: Choice based on melody similarity (A+ or A- or B+ or B- or N/A)
 - `answer_total`: Overall similarity choice (A+ or A- or B+ or B-)
 - `choice_time`: Time taken to make a choice (milliseconds)
+
+### Note
+Dummy questions; A or B is exactly the same as X, is prepared, and all results for subjects who did not choose the same one as X for that question are eliminated. The valid answers to the dummy questions are also included in the csv.
 
 ### 1-2. `./csvs/inst_sim_abx_answers_XAB.csv` and `./csvs/inst_sim_abx_answers_XYC.csv`
 These are split from `./csvs/inst_sim_abx_answers.csv` into two parts.
@@ -65,3 +68,7 @@ Test Set Number
   - `index_e`: End index of the sample
 The number of start/end seconds can be calculated by index_{s, e}//sr.
 If you save the audio segment using the above information in path=“set$no_set/$no_sample/$inst/$filename”, it will correspond to the csv file.
+
+## More detail and citation
+Further details will be shared in an arXiv paper, but are still in preparation. Also, this data can only be used for research use if you cite the arXiv paper.
+We will share the arXiv paper here as soon as it is ready, so please use it after that.

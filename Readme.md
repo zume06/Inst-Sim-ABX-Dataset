@@ -9,7 +9,6 @@ This dataset contains response data collected from experiments evaluating the si
 - `./sample_configs/`
   - Stores JSON files detailing the configuration of each test set's samples.
 
----
 
 ## File Descriptions
 

@@ -71,3 +71,5 @@ If you save the audio segment using the above information in path=“set$no_set/
 ## More detail and citation
 Further details will be shared in an arXiv paper, but are still in preparation. Also, this data can only be used for research use if you cite the arXiv paper.
 We will share the arXiv paper here as soon as it is ready, so please use it after that.
+If you have any questions or need to report anything, please feel free to contact us at the e-mail address below.
+hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp

@@ -69,7 +69,6 @@ The number of start/end seconds can be calculated by index_{s, e}//sr.
 If you save the audio segment using the above information in path=“set${no_set}/${no_sample}/${inst}/${filename}”, it will correspond to the csv file.
 
 ## More detail and citation
-Further details will be shared in an arXiv paper, but are still in preparation. Also, this data can only be used for research use if you cite the arXiv paper.
-We will share the arXiv paper here as soon as it is ready, so please use it after that.  
+Further details will be shared in a paper: <a href="https://arxiv.org/pdf/2502.02138">arxiv:2502.02138</a> or <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">in ICASSP2025 proceedings</a>. Also, this data can only be used for research use if you cite the paper.
 If you have any questions or need to report anything, please feel free to contact us at the e-mail address below.  
 hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp

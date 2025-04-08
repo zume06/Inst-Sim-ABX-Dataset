@@ -73,3 +73,10 @@ If you save the audio segment using the above information in path=“set${no_set
 Further details will be shared in a paper: <a href="https://arxiv.org/pdf/2502.02138">arxiv:2502.02138</a> or <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">in ICASSP2025 proceedings</a>. Also, this data can only be used for research use if you <b>cite this paper</b>.
 If you have any questions or need to report anything, please feel free to contact us at the e-mail address below.  
 hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp
+
+###Correction of the errors in the papers
+Total number of subjects <b>586 → 632</b>
+The number of subjects participating the additional experiments <b>328 → 347</b>
+No change in the number of valid answers, 26898, and the number of unique subjects.
+The arxiv version will be corrected soon.
+I apologize for my mistake.

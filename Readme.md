@@ -74,7 +74,7 @@ Further details will be shared in a paper: <a href="https://arxiv.org/pdf/2502.0
 If you have any questions or need to report anything, please feel free to contact us at the e-mail address below.  
 hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp
 
-###Correction of the errors in the papers
+### Correction of the errors in the papers
 Total number of subjects <b>586 → 632</b>
 The number of subjects participating the additional experiments <b>328 → 347</b>
 No change in the number of valid answers, 26898, and the number of unique subjects.

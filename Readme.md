@@ -76,7 +76,8 @@ hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp
 
 ### Correction of the errors in the papers
  - Total number of subjects <b>586 → 632</b>
- - The number of subjects participating the additional experiments <b>328 → 347</b>  
+ - The number of subjects participating the additional experiments <b>328 → 347</b>
+
 No change in the number of valid answers, 26898, and the number of unique subjects.  
 The arxiv version will be corrected soon.  
 I apologize for my mistake.  

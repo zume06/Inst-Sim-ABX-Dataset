@@ -33,9 +33,10 @@ Dummy questions; A or B is exactly the same as X, is prepared, and all results f
 
 ### 1-2. `./csvs/inst_sim_abx_answers_XAB.csv` and `./csvs/inst_sim_abx_answers_XYC.csv`
 These are split from `./csvs/inst_sim_abx_answers.csv` into two parts.
-We made 2 types of sample sets, test 1 (XAB) and test 2 (XYC).
-In test 1 (XAB), we randomly selected three different music tracks and captured 5-second segments for each.
-In test 2 (XYC), Y is the different time segment from the same music track as X. C is from the different music track from X. The file `./csvs/inst_sim_abx_answers.csv` is all result containing both XAB and XYC, the file `./csvs/inst_sim_abx_answers_XAB.csv` only contains the results for XAB, and `./csvs/inst_sim_abx_answers_XYC.csv` only contains the results for XYC.
+We made 2 types of sample sets, test 1 (XYC) and test 2 (XAB).
+In test 1 (XYC), Y is the different time segment from the same music track as X. C is from the different music track from X. 
+In test 2 (XAB), we randomly selected three different music tracks and captured 5-second segments for each.
+The file `./csvs/inst_sim_abx_answers.csv` is all result containing both XAB and XYC, the file `./csvs/inst_sim_abx_answers_XAB.csv` only contains the results for XAB, and `./csvs/inst_sim_abx_answers_XYC.csv` only contains the results for XYC.
 
 
 ### 2. `./sample_configs/dict_triplet_202404.json` and `./sample_configs/dict_triplet_202407.json`

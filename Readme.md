@@ -80,5 +80,5 @@ hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp
  - The number of subjects participating the additional experiments <b>328 → 347</b>
 
 No change in the number of valid answers, 26898, and the number of unique subjects.  
-The arxiv version will be corrected soon.  
+All data in <a href="https://www.emerald.com/atsip/article/15/1/249/1359544">APSIPA TSIP paper 2026</a> is correct.  
 I apologize for my mistake.  

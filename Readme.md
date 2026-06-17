@@ -74,6 +74,8 @@ If you save the audio segment using the above information in path=“set${no_set
 Further details will be shared in a paper: <a href="https://www.emerald.com/atsip/article/15/1/249/1359544">APSIPA TSIP paper 2026</a> or <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">ICASSP proceeding 2025</a>. Also, this data can only be used for research use if you <b>cite this paper</b>.
 If you have any questions or need to report anything, please feel free to contact us at the e-mail address below.  
 hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp
+or
+yuka.hashizume@aist.go.jp
 
 ### Correction of the errors in <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">ICASSP proceeding 2025</a>
  - Total number of subjects <b>586 → 632</b>

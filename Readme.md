@@ -71,11 +71,11 @@ The number of start/end seconds can be calculated by index_{s, e}//sr.
 If you save the audio segment using the above information in path=“set${no_set}/${no_sample}/${inst}/${filename}”, it will correspond to the csv file.
 
 ## More detail and citation
-Further details will be shared in a paper: <a href="https://www.emerald.com/atsip/article/15/1/249/1359544">APSIPA TSIP 2026</a> or <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">in ICASSP2025 proceedings</a>. Also, this data can only be used for research use if you <b>cite this paper</b>.
+Further details will be shared in a paper: <a href="https://www.emerald.com/atsip/article/15/1/249/1359544">APSIPA TSIP 2026 paper</a> or <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">ICASSP2025 proceedings</a>. Also, this data can only be used for research use if you <b>cite this paper</b>.
 If you have any questions or need to report anything, please feel free to contact us at the e-mail address below.  
 hashizume.yuuka@g.sp.m.is.nagoya-u.ac.jp
 
-### Correction of the errors in <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">in ICASSP2025 proceedings</a>
+### Correction of the errors in <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887810">ICASSP2025 proceedings</a>
  - Total number of subjects <b>586 → 632</b>
  - The number of subjects participating the additional experiments <b>328 → 347</b>
 
